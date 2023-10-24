@@ -8,7 +8,7 @@ pip install Django
 
 python manage.py runserver 
 
-Done 
+
 For TEST :
 
 USER NAME - Chetan 
